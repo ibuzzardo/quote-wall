@@ -1,5 +1,10 @@
 # Quote Wall
 
+> Built with [Dark Factory v4](https://github.com/ibuzzardo/dark-factory-v4) — autonomous AI software development pipeline
+
+**[Live Demo](https://quote-wall-jade.vercel.app)**
+
+
 A beautiful daily quote wall built with Next.js 15, featuring inspiring quotes in a responsive masonry layout with favorites and category filtering.
 
 ## Features
