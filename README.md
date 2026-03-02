@@ -7,6 +7,10 @@
 
 A beautiful daily quote wall built with Next.js 15, featuring inspiring quotes in a responsive masonry layout with favorites and category filtering.
 
+
+![quote-wall screenshot](docs/screenshot.png)
+
+
 ## Features
 
 - 📱 **Responsive Design** - Works perfectly on mobile, tablet, and desktop
